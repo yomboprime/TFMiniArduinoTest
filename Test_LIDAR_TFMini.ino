@@ -11,7 +11,7 @@
  * Green cable to RX in the ESP32 (UART 2, pin 16)
  * Red cable to 5V
  * Black cable to GND
- * Green cable is not needed.
+ * White cable is not needed.
  * 
  * 9 byte frame of the sensor:
  * Byte 0: Always is 0x59 
